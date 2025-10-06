@@ -19,10 +19,9 @@
 
 ---
 
-- Currently working on **AI-powered web solutions**  
+- Currently working on **Frontent app dev**  
 - Learning **Kotlin (Android Dev), AI & Machine Learning**  
-- Open to collaborate on **Open-source AI/ML & Full-stack projects**  
-- Looking for help with **Integrating advanced ML models**  
+- Open to collaborate on **Open-source Full-stack projects**  
 - Projects at: [github.com/manyasethi20](https://github.com/manyasethi20)  
 - Ask me about **AI/ML and Frontend Development**  
 - Reach me at: **manyasethi70@gmail.com**  

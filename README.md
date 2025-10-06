@@ -23,7 +23,7 @@
 - Learning **Kotlin (Android Dev), AI & Machine Learning**  
 - Open to collaborate on **Open-source Full-stack projects**  
 - Projects at: [github.com/manyasethi20](https://github.com/manyasethi20)  
-- Ask me about **AI/ML and Frontend Development**  
+- Ask me about **Frontend Development**  
 - Reach me at: **manyasethi70@gmail.com**  
 - Fun fact: **I love solving sudoku**  
 

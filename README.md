@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=manyasethi20&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=manyasethi20&theme=onedark&row=1&column=6&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -48,21 +48,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> 
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
-  <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" alt="OpenCV" width="40" height="40"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL" width="40" height="40"/> 
 </p>
 
 ---
@@ -70,25 +62,27 @@
 <h3 align="left">Projects</h3>
 
 - **Smart Parking System**  
-  A Python-based simulation with a Tkinter GUI using SimPy to model parking spot allocation, car arrivals, and real-time stats. It visualizes occupancy and vehicle flow dynamically.  
+  A Python-based simulation with a Tkinter GUI using SimPy to model parking spot allocation, car arrivals, and real-time stats.  
   *Tech: Python, SimPy, Tkinter, Threading*  
 
 - **Research Room Management**  
-  A Flask web app for managing research rooms, paper uploads, and collaboration. Features user auth, PDF summarization, annotations, and Q&A. Uses SQLite and PyMuPDF for PDF processing.  
+  A Flask web app for managing research rooms, paper uploads, and collaboration. Features user auth, PDF summarization, annotations, and Q&A.  
   *Tech: Python, Flask, SQLite, PyMuPDF, HTML/CSS, Threading*  
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manyasethi20&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyasethi20&show_icons=true&layout=compact&count_private=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manyasethi20&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manyasethi20&show_icons=true&count_private=true" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manyasethi20" alt="GitHub Streak" />
-</p>
+
+
+
+
+
